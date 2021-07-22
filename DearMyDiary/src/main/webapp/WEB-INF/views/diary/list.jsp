@@ -111,7 +111,7 @@
 							style="display: none;">
 							<span class="glyphicon glyphicon-bell"></span>&nbsp;<strong>[주의!]</strong>&nbsp;탈퇴
 							시 작성한 일기는 모두 삭제됩니다. 그래도 진행할까요? <br /> <a
-								href="/user/deleteUser?id=${login.id}" class="alert-link">할래요</a>&nbsp;&nbsp;&nbsp;<a
+								href="/mydiary/user/deleteUser?id=${login.id}" class="alert-link">할래요</a>&nbsp;&nbsp;&nbsp;<a
 								onclick="$('#deletealert').hide(500)" class="alert-link">안할래요</a>
 						</div>
 					</div>
