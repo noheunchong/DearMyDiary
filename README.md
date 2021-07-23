@@ -1,7 +1,7 @@
 # Dear My Diary
 <br />
 <br />
-
+#### 실행화면
 <img src ="https://user-images.githubusercontent.com/85882348/126746206-27e553e2-6485-48c5-bbf4-d70f369038ea.JPG" width="800px">
 
 #### Mysql diary 테이블
